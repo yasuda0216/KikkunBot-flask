@@ -4,7 +4,7 @@ import json
 import numpy as np
 import openai
 
-openai.api_key = "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"
+openai.api_key = "sk-xxxx"
 app = Flask(__name__)
 app.config['JSON_AS_ASCII'] = False
 
